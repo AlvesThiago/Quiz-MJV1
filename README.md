@@ -4,9 +4,9 @@ No desenvolvimento inicial do jogo de quiz em JAVA, foi estabelecida uma estrutu
 
 ## Pasta Model:
 Nesta pasta, foram criadas classes essenciais para o funcionamento do jogo, cada uma desempenhando um papel específico.
-      - ### Player: Representa a entidade jogador, armazenando informações relevantes sobre cada participante.
-      - ### Questions: Contém a lógica para manipulação e apresentação das perguntas do quiz.
-      - ### User: Responsável por gerenciar as informações do usuário no contexto do jogo.
+      ### Player: Representa a entidade jogador, armazenando informações relevantes sobre cada participante.
+      ### Questions: Contém a lógica para manipulação e apresentação das perguntas do quiz.
+      ### User: Responsável por gerenciar as informações do usuário no contexto do jogo.
 
 ## Serviço de Dados:
    - Foi implementado um conjunto inicial de dados para alimentar o quiz. Esses dados, temporariamente armazenados em uma classe de serviço, serão posteriormente migrados para um banco de dados, aprimorando a escalabilidade e a gestão eficiente das informações.
