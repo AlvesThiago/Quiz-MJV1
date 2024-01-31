@@ -1,12 +1,13 @@
 package br.com.mjv.model;
 
 public class Player {
-    private String nickName;
 
+    private Long id;
+
+    private String nickName;
     private Integer score;
 
     private User user;
-
 
     public Player(){
 
